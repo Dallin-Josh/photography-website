@@ -7,7 +7,7 @@ class Footer extends Component {
             <div className="footer">
                 <div className="contact-info">
                 <a className="email-link" href="mailto:Krs329@gmail.com">Email Kristin Garbett</a>
-                <div className="phone-number">801-809-7437
+                <div> <a className="phone-number" href="tel:+1801-809-7437">801-809-7437</a>
                 </div>
             </div>
             </div>

@@ -6,11 +6,11 @@
 .contact-info{
     display: flex;
     justify-content: space-around;
-
-    padding-top: 20px;
+    padding-top: 22px;
 }
 .phone-number{
     text-decoration: underline;
+    color:black;
 }
 .email-link{
     color:black;
