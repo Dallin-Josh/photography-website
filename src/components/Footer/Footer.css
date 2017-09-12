@@ -1,0 +1,19 @@
+.footer{
+    width: 100vw;
+    height: 75px;
+    background-color: gray;
+}
+.contact-info{
+    display: flex;
+    justify-content: space-around;
+
+    padding-top: 20px;
+}
+.phone-number{
+    text-decoration: underline;
+}
+.email-link{
+    color:black;
+   
+
+}
