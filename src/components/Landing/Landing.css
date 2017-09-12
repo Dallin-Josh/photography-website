@@ -1,0 +1,16 @@
+.family-landing-pic{
+    background: url("../../pics/edit_7163_1.JPG")no-repeat center center fixed;
+  height: 600px;
+  width: 500%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+background-position-y: -40px;
+
+
+
+
+
+
+}
