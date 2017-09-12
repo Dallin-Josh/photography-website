@@ -1,3 +1,4 @@
+ 
 import React, { Component } from 'react';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
@@ -19,3 +20,4 @@ class Landing extends Component {
 }
 
 export default Landing;
+
