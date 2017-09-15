@@ -11,7 +11,6 @@ class App extends Component {
   render() {
     return (
       <div>
-
         <Router>
           <Switch>
             <Route exact path='/' component={Landing}></Route>
@@ -19,7 +18,6 @@ class App extends Component {
             <Route path='/pricing' component={Pricing}></Route>
           </Switch>
         </Router>
-
       </div>
     );
   }
