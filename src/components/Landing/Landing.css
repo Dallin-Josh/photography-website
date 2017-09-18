@@ -1,16 +1,24 @@
 .family-landing-pic{
     background: url("../../pics/edit_7163_1.JPG")no-repeat center center fixed;
-  height: 600px;
-  width: 500%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-background-position-y: -40px;
-
-
-
-
-
-
+    height: 900px;
+    width: 100vw;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position-y: -40px;
+}
+.social-media {
+  padding-top: 75px;
+  padding-left: 75px;
+  height: 400px;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+i {
+  color: gray;
+  margin-bottom: 30px;
 }
